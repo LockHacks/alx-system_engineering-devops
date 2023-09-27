@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l echo "Applications    Documents   Dropbox Movies Pictures Desktop Downloads   Library Music Public"
+pwd echo "Applications    Documents   Dropbox Movies Pictures Desktop Downloads   Library Music Public"
