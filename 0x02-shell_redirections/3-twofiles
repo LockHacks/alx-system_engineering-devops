@@ -1,0 +1,3 @@
+#!/bin/bash
+echo ls "etc/passwd"
+echo ls "etc/hosts"
