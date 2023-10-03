@@ -1,0 +1,3 @@
+#!/bin/bassh 
+echo ls "0-alias file1 file2"
+echo rm "0-alias"
